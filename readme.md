@@ -18,4 +18,6 @@ You must have a local server (e.g. WAMP) running and properly configured virtual
     <li>Finally add some fake products and create a new user</li>
 </ol>
 
-The PayPal API is not configured yet and further instructions on how to get this working can be found in the upcoming tutorial in <a href="https://projecthn.000webhostapp.com">ProjectHN</a>.
+The PayPal API is not configured yet and further instructions on how to get this working can be found in the tutorial: <a href="https://projecthn.000webhostapp.com/article/25" >Beginners guide to make an e-commerce store using PayPal Checkout in Laravel</a>.
+
+Visit my website for more awesome tutorials at <a href="https://projecthn.000webhostapp.com/articles" >Project HN</a>
